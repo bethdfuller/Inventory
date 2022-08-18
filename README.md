@@ -5,7 +5,9 @@ Purpose: The application is a GUI-based inventory management program created wit
 Author: Beth Fuller
 
 Contact E-mail: bethdfuller@gmail.com
+
 Version: 1
+
 Summer 2022
     
 <img width="1012" alt="Screen Shot 2022-08-13 at 8 17 33 PM" src="https://user-images.githubusercontent.com/38383228/185291724-7f23ce31-950e-4db2-8090-da682ec21c1f.png">
